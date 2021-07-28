@@ -1,0 +1,16 @@
+/* google fonts */
+body{    
+    font-family: 'Poppins', sans-serif;
+}
+/* header section background color */
+.bg-custom-color{
+    height: 698px;
+    background: #264653;
+}
+/*purchase button css*/
+.btn-honda{
+    width: 168px;
+    height: 44px;
+    background: #E76F51
+}
+
