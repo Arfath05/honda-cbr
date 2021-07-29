@@ -39,6 +39,9 @@ body{
     width: 149px;
     height: 149px;
 }
+.faq, .card-body p{
+    color: #7E848C ;
+}
 /* font awesome icon custom color*/
 i{
     color: #E77C40;
