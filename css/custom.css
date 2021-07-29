@@ -1,7 +1,7 @@
 /* google fonts */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&display=swap');
 body{    
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', 'sans-serif';
 }
 /* header section background color */
 .bg-custom-color{
@@ -44,12 +44,7 @@ body{
 i{
     color: #E77C40;
 }
-.aero-icon{
-    
-    color: darkgray;
-    width: 36px;
-    height: 36px;
-}
+
 
 
   
