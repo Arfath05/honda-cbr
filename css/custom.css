@@ -43,3 +43,8 @@ body{
 i{
     color: #E77C40;
 }
+.aero-icon{
+    color: darkgray;
+    width: 36px;
+    height: 36px;
+}
