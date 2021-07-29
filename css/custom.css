@@ -22,7 +22,7 @@ body{
     border: 2px solid #E76F51;
     border-radius: 1px;
 }
-h3{
+.custom-font-color{
     color:#E76F51;
 }
  /* gray scale for feature */
@@ -34,4 +34,12 @@ h3{
      filter: grayscale(1);
      -webkit-filter: grayscale(1);
  }
-
+/* client feedback */
+.card-img-top{
+    width: 149px;
+    height: 149px;
+}
+/* font awesome icon custom color*/
+i{
+    color: #E77C40;
+}
